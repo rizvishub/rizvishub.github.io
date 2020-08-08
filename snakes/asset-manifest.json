@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.ced89492.chunk.css",
-    "main.js": "./static/js/main.ff21c1b7.chunk.js",
-    "main.js.map": "./static/js/main.ff21c1b7.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7e0a228f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7e0a228f.js.map",
-    "static/js/2.ab86b07c.chunk.js": "./static/js/2.ab86b07c.chunk.js",
-    "static/js/2.ab86b07c.chunk.js.map": "./static/js/2.ab86b07c.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.2f743e53ed781f94a7e45d923b12e067.js": "./precache-manifest.2f743e53ed781f94a7e45d923b12e067.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.ced89492.chunk.css.map": "./static/css/main.ced89492.chunk.css.map",
-    "static/js/2.ab86b07c.chunk.js.LICENSE.txt": "./static/js/2.ab86b07c.chunk.js.LICENSE.txt"
+    "main.css": "./snakes/static/css/main.ced89492.chunk.css",
+    "main.js": "./snakes/static/js/main.ff21c1b7.chunk.js",
+    "main.js.map": "./snakes/static/js/main.ff21c1b7.chunk.js.map",
+    "runtime-main.js": "./snakes/static/js/runtime-main.5518173b.js",
+    "runtime-main.js.map": "./snakes/static/js/runtime-main.5518173b.js.map",
+    "static/js/2.ab86b07c.chunk.js": "./snakes/static/js/2.ab86b07c.chunk.js",
+    "static/js/2.ab86b07c.chunk.js.map": "./snakes/static/js/2.ab86b07c.chunk.js.map",
+    "index.html": "./snakes/index.html",
+    "precache-manifest.102359269f25a125c4b9ca483565539d.js": "./snakes/precache-manifest.102359269f25a125c4b9ca483565539d.js",
+    "service-worker.js": "./snakes/service-worker.js",
+    "static/css/main.ced89492.chunk.css.map": "./snakes/static/css/main.ced89492.chunk.css.map",
+    "static/js/2.ab86b07c.chunk.js.LICENSE.txt": "./snakes/static/js/2.ab86b07c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e0a228f.js",
+    "static/js/runtime-main.5518173b.js",
     "static/js/2.ab86b07c.chunk.js",
     "static/css/main.ced89492.chunk.css",
     "static/js/main.ff21c1b7.chunk.js"
